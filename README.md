@@ -1,0 +1,2 @@
+# nymodel
+training ai model
